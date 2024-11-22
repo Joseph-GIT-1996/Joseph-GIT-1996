@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Joseph-GIT-1996
+- 👀 I’m interested in AI Technologies
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on Machine Learning projects
+- 📫 How to reach me Joseph1996Karam@gmail.com
